@@ -2,3 +2,10 @@
     font-size: 28px;
     font-family: Helvetica,'Times New Roman', sans-serif;
 }
+.btn.black{
+    background-color: #1a1414;
+    color: #e2f9f2;
+}
+.btn.orange{
+    background-color: #e2730b;
+}
