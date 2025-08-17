@@ -6,7 +6,7 @@ body {
   display: flex;
   justify-content: center;
   margin-top: 32px;
-  text-wrap: wrap;
+  gap: 32px;
 }
 
 img {
@@ -32,12 +32,6 @@ img {
   background: #eee;
 }
 
-.item-one,
-.item-two,
-.item-three{
-  margin-right: 52px;
-  width: 200px;
-}
-.item-four{
-  width: 200px;
+.item{
+  max-width: 200px;
 }
